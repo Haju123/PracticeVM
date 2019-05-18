@@ -2,4 +2,7 @@ line1 : First line in master
 
 line 2: Dev line 1
 
+
 new line : from ui
+line 3: adding in git
+
